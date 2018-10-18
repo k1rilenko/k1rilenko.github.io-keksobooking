@@ -1,4 +1,5 @@
 'use strict';
+
 (function () {
   var cardTemplate = document.querySelector('#card').content.querySelector('.map__card');
   function getCard(apartment) {
