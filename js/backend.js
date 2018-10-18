@@ -1,7 +1,7 @@
 'use strict';
 (function () {
   var URL_POST = 'https://js.dump.academy/keksobooking';
-  var URL_GET = 'https://js.dump.academy/keksobooking/data';
+  var URL_GET = 'https://k1rilenko.github.io/keksobooking/data.json';
   var TIMEOUT = 10000;
   var STATUS_OK = 200;
 
